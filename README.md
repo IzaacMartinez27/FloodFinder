@@ -4,7 +4,7 @@
 
 
 
-# Designed to detect flooding in roads to prevent damage to properties and people
+# Designed to detect flooding on roads to prevent damage to properties and people
 - Average cost of flood insurance in florida is $660.
 - Nearly 30,000 cars are damged to flooding annually.
 - $803.6 million in damages due to flooding anually.
