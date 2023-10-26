@@ -1,4 +1,8 @@
 ##  FloodFinder
+![Company Logo](https://ideogram.ai/api/images/direct/RWSoZmWERI-HiYrRknehDg.jpg)
+
+
+
 
 # Designed to detect flooding in roads to prevent damage to properties and people
 
