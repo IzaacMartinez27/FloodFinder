@@ -18,5 +18,13 @@
 
 
 # Data deck for AlexNet
+
 [Data Deck](https://docs.google.com/presentation/d/1jgMy9debO-qL7tattfIWuWDmUeByrlxsKDopw7wnhjs/edit#slide=id.g1e5fdbef005_0_5)
+
+
+# Training the model
+
+# The Filters
+
+# Displaying the results
 
