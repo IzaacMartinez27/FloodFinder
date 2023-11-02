@@ -1,10 +1,10 @@
 ##  FloodFinder
 ![Company Logo](https://ideogram.ai/api/images/direct/RWSoZmWERI-HiYrRknehDg.jpg)
 
-# Our Goal
+# Our Mission
+  At Flood Finder, our mission is to safeguard communities from the perils of flooded roads. We are committed to utilizing cutting-edge technology, including cameras powered by state-of-the-art neural networks like AlexNet, to detect and alert the public about hazardous road conditions. Our goal is to significantly reduce the damage to vehicles and, most importantly, protect people from harm caused by flooding.
 
-# <u> The Problem </u>
-
+# The Problem 
 - Safety Risks: Driving through flooded roads is one of the leading causes of flood-related deaths in Florida. Vehicles can be swept away by fast-moving floodwaters, trapping occupants and leading to tragic outcomes.
 - Vehicle Damage: Flooded roads can be hazardous to vehicles. When vehicles attempt to drive through flooded areas, water can damage engines, electronics, and other critical components. Saltwater flooding can be especially destructive, leading to corrosion and rendering vehicles inoperable.
 - Evacuations: During hurricanes and severe storms, authorities may issue evacuation orders for flood-prone areas. The process of moving people out of harm's way can be challenging, especially for those who may be unable or unwilling to leave their homes and vehicles.  
