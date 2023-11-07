@@ -35,4 +35,4 @@
 ![Feature Map with Filters](FeatureMap.png)
 
 # Displaying the results
-
+FloodFinder's objective is two-fold: to integrate with pre-existing camera networks and to develop new camera systems optimized for the task. Utilizing the AlexNet convolutional neural network, it analyzes visual data to assess whether roads are flooded. When flooding is detected, FloodFinder activates an alarm light, providing a prompt and visible warning to the public, thereby enhancing safety and facilitating immediate response measures.
