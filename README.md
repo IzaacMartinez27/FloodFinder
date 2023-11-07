@@ -29,6 +29,8 @@
 
 [Training Progress/Model Performance](https://api.wandb.ai/links/imartinez45/venqvgi3)
 # Image map and the filters
+- Feature maps are the outputs of the various layers within the network where convolutional filters have been applied to the input images. Each feature map represents the responses of a filter that aims to capture specific types of features at a given layer in the network. For example, early layers may capture edges or textures, while deeper layers can capture more complex structures relevant to the task at hand, such as water patterns or road outlines.
+
 ![My Image](FeatureMap.png)
 
 # Displaying the results
