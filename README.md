@@ -29,7 +29,7 @@
 
 [Training Progress/Model Performance](https://api.wandb.ai/links/imartinez45/venqvgi3)
 # Image map and the filters
-![My Image](Feature_Map.png)
+![My Image](FeatureMap.png)
 
 # Displaying the results
 
