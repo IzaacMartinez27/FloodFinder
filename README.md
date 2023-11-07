@@ -28,7 +28,7 @@
 - Weights & Biases (WandB) is a tool for tracking experiments in machine learning. One of the key performance metrics it can visualize is the accuracy of the model over each training epoch, depicted in a graph typically referred to as the "WandB acc train graph". This graph plots the training accuracy as the model learns, represented on the Y-axis, against the number of epochs (complete passes through the training dataset) on the X-axis.
 
 [Training Progress/Model Performance](https://storage.googleapis.com/preview-friendly-links-prod/wandb-public-images/links/imartinez45/s10h8jcn.png)
-# The Filters
+# Image map and the filters
 
 # Displaying the results
 
