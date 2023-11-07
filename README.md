@@ -18,8 +18,9 @@
 
 
 # Data deck for AlexNet
+- AlexNet requires a vast amount of labeled data to learn the intricate features that distinguish flooded roads from non-flooded ones. A data deck would include a pre-processed and curated dataset that contains a balanced mix of both classes (flooded and non-flooded) with diverse representations under various conditions (different lighting, angles, water clarity, etc.).
 
-[Data Deck](https://docs.google.com/presentation/d/1jgMy9debO-qL7tattfIWuWDmUeByrlxsKDopw7wnhjs/edit#slide=id.g1e5fdbef005_0_5)
+[Data Deck for FloodFinder](https://docs.google.com/presentation/d/1jgMy9debO-qL7tattfIWuWDmUeByrlxsKDopw7wnhjs/edit#slide=id.g1e5fdbef005_0_5)
 
 
 # Training the model
