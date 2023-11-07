@@ -25,6 +25,8 @@
 
 # Training the model
 
+
+[Training Progress/Model Performance](https://storage.googleapis.com/preview-friendly-links-prod/wandb-public-images/links/imartinez45/s10h8jcn.png)
 # The Filters
 
 # Displaying the results
