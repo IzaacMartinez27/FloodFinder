@@ -35,7 +35,8 @@
 # Feature map with the filters
 - Feature maps are the outputs of the various layers within the network where convolutional filters have been applied to the input images. Each feature map represents the responses of a filter that aims to capture specific types of features at a given layer in the network. For example, early layers may capture edges or textures, while deeper layers can capture more complex structures relevant to the task at hand, such as water patterns or road outlines.
 
-![Feature Map with Filters](FeatureMap.png)
+
+<img src="https://raw.githubusercontent.com/IzaacMartinez27/FloodFinder/main/FeatureMap.png" width="150" height="150"> 
 
 # Displaying the results
 - Once the analysis is complete, the system concludes whether the road section in the image is flooded or clear. If flooding is detected, the system promptly projects its response by activating a visual alert system, typically an alarm light. This immediate projection of the system's decision serves as a crucial indicator for drivers, pedestrians, and relevant authorities, enabling them to take appropriate action to avoid the hazard or to address the situation swiftly.
