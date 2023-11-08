@@ -1,5 +1,5 @@
 ##  FloodFinder
-<img src="https://ideogram.ai/api/images/direct/RWSoZmWERI-HiYrRknehDg.jpg" width="300" height="300"> 
+<img src="https://raw.githubusercontent.com/IzaacMartinez27/FloodFinder/main/Logo.webp" width="300" height="300"> 
 
 # Our Mission
   At Flood Finder, our mission is to safeguard communities from the perils of flooded roads. We are committed to utilizing cutting-edge technology, including cameras powered by state-of-the-art neural networks like AlexNet, to detect and alert the public about hazardous road conditions. Our goal is to significantly reduce the damage to vehicles and, most importantly, protect people from harm caused by flooding.
