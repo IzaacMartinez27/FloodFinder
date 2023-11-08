@@ -24,10 +24,13 @@
 <table>
   <tr>
     <td>
-      <img src="https://wtop.com/wp-content/uploads/2019/07/frederickhigh1.jpg" width="150" height="150">
+      <img src="https://wtop.com/wp-content/uploads/2019/07/frederickhigh1.jpg" width="200" height="200">
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/City_Road%2C_Cardiff.jpg/1600px-City_Road%2C_Cardiff.jpg" width="150" height="150"> 
+      Or
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/City_Road%2C_Cardiff.jpg/1600px-City_Road%2C_Cardiff.jpg" width="200" height="200"> 
     </td>
   </tr>
 </table>
