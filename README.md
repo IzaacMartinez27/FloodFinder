@@ -15,7 +15,7 @@
 - If AlexNet sees patterns in the photo that match what it learned about flooded roads, it will say, "Yes, this looks like a flooded road." If the patterns in the photo match what it learned about dry roads, it will say, "No, this is not a flooded road."
 - It's like having a super-smart friend who can quickly sort your photos into "flooded road" and "non-flooded road" categories by recognizing the important details that tell the story. This can be really helpful in situations like disaster response, where we need to identify flooded roads quickly to send help to those in need.
 
-<img src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/24a9866f-38b0-4143-bfac-fcc0a068c9de/c2beb768-8c21-43a8-bb62-4f450ea38931/images/screenshot.gif" width="300" height="300"> 
+<img src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/24a9866f-38b0-4143-bfac-fcc0a068c9de/c2beb768-8c21-43a8-bb62-4f450ea38931/images/screenshot.gif" width="500" height="300"> 
 
 
 # Data deck for AlexNet
