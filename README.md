@@ -57,3 +57,10 @@
 
 # Links to the Code and Code Breakdown
 [FloodFinder Colab](https://colab.research.google.com/drive/1TlSuYayS8LNyqHiV5POC6rnd5XCmSOK2#scrollTo=WCz1b6FWwF9U)
+
+[Code Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/FloodFinderCode.md)
+
+# Reach Out 
+Email- martinezizaac2002@gmail.com 
+
+Cell Phone- 719-679-7587
