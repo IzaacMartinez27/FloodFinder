@@ -43,8 +43,7 @@
 - Training a machine learning model, like a deep neural network, is an essential process where the model learns to make predictions or decisions based on input data. During training, the model adjusts its internal parameters to minimize the difference between its predictions and the actual outcomes (labels) in the training dataset. The goal is to create a model that not only performs well on the training data but can also generalize to new, unseen data.
 - Weights & Biases (WandB) is a tool for tracking experiments in machine learning. One of the key performance metrics it can visualize is the accuracy of the model over each training epoch, depicted in a graph typically referred to as the "WandB acc train graph". This graph plots the training accuracy as the model learns, represented on the Y-axis, against the number of epochs (complete passes through the training dataset) on the X-axis.
 
-
-[[Training Progress/Model Performance]](https://api.wandb.ai/links/imartinez45/sl2yu9se)
+[Training Progress/Model Performance](https://api.wandb.ai/links/imartinez45/44lyo12g)
 # Feature map with the filters
 - Feature maps are the outputs of the various layers within the network where convolutional filters have been applied to the input images. Each feature map represents the responses of a filter that aims to capture specific types of features at a given layer in the network. For example, early layers may capture edges or textures, while deeper layers can capture more complex structures relevant to the task at hand, such as water patterns or road outlines.
 
