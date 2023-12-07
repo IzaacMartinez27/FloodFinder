@@ -56,8 +56,7 @@
 <img src="https://raw.githubusercontent.com/IzaacMartinez27/FloodFinder/main/Concept.webp" width="350" height="300"> 
 
 # Links to the Code and Code Breakdown
-[FloodFinder Colab](https://colab.research.google.com/drive/1TlSuYayS8LNyqHiV5POC6rnd5XCmSOK2#scrollTo=WCz1b6FWwF9U)
-
+[[FloodFinder Colab]](https://colab.research.google.com/drive/1TlSuYayS8LNyqHiV5POC6rnd5XCmSOK2?usp=sharing)
 [Code Breakdown](https://github.com/IzaacMartinez27/Code_Break_Down/blob/main/FloodFinderCode.md)
 
 # Reach Out 
